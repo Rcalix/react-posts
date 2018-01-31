@@ -1,5 +1,5 @@
 ---
-title: "Common Vue.js"
+title: "Vueltero Horacio"
 date: "2017-12-05"
 author: "Alex Chî"
 ---
